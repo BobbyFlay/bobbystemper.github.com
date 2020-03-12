@@ -3,10 +3,10 @@ title: 'AdHawk iOS App'
 subtitle: 'subtitle'
 date: 2020-03-11 00:00:00
 description: 'description'
-featured_image: '/images/adhawk/adhawk-dashboard.png'
+featured_image: '/images/adhawk/adwords_iphone_app_preview.png'
 ---
 
-![](/images/adhawk/adhawk-dashboard.png)
+![](/images/adhawk/adwords_iphone_app_preview.png)
 
 ## Demo content
 
