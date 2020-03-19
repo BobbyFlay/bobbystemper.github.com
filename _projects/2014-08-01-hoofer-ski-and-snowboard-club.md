@@ -4,6 +4,7 @@ subtitle: 'Club President'
 date: 2020-03-11 00:00:00
 description: 'description'
 featured_image: '/images/bobby/bobby-helmet-wisconsin-hoofers.jpeg'
+image: '/images/bobby/bobby-helmet-wisconsin-hoofers.jpeg'
 ---
 
 ![](/images/bobby/bobby-helmet-wisconsin-hoofers.jpeg)
