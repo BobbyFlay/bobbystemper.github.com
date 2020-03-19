@@ -3,10 +3,10 @@ title: 'Website Development'
 subtitle: 'FloorForce & AdHawk'
 date: 2020-03-11 00:00:00
 description: 'description'
-featured_image: '/images/projects/floorforce-agency-case-study-cover-bs-dot-com.png'
+featured_image: '/images/projects/adhawk-website.png'
 ---
 
-![](/images/projects/floorforce-agency-case-study-cover-bs-dot-com.png)
+![](/images/projects/adhawk-website.png)
 
 ## Demo content
 

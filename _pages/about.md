@@ -4,22 +4,6 @@ subtitle: A little bit more about me in 10 pictures or less.
 description: Bobby Stemper in 10 pictures.
 featured_image: /images/demo/demo-landscape.jpg
 ---
-
-## Wearer of many hats
-
-<div class="gallery" data-columns="3">
-	<img src="/images/bobby/bobby-brewers-brickwall.jpeg">
-	<img src="/images/bobby/bobby-brewers-williamsburgbridge.jpeg">
-	<img src="/images/bobby/bobby-brewers-chicago.jpeg">
-	<img src="/images/bobby/bobby-cap-madison.jpeg">
-	<img src="/images/bobby/bobby-hairdonation.jpeg">
-	<img src="/images/bobby/bobby-helmet-nyc.jpeg">
-	<img src="/images/bobby/bobby-packers-subway.jpeg">
-	<img src="/images/bobby/bobby-skiing-tahoe.jpeg">
-	<img src="/images/bobby/bobby-winningrace.jpeg">
-	<img src="/images/bobby/bobby-helmet-racing.jpeg">
-</div>
-
 ## Annual Donater of Hair
 ![bobby stemper williamsburg bridge](/images/bobby/bobby-hairdonation.jpeg)
 
