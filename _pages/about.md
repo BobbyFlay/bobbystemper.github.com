@@ -3,6 +3,8 @@ title: About Bobby Stemper
 subtitle: A little bit more about me in 10 pictures or less.
 description: Bobby Stemper in 10 pictures.
 featured_image: /images/demo/demo-landscape.jpg
+
+image: /images/other/bs-marketing-about.png
 ---
 ## Annual Donater of Hair
 ![bobby stemper williamsburg bridge](/images/bobby/bobby-hairdonation.jpeg)
