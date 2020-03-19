@@ -1,12 +1,12 @@
 ---
-title: 'AdHawk iOS App'
-subtitle: 'subtitle'
+title: 'Content Marketing'
+subtitle: 'SEO & Inbound Acquisition'
 date: 2020-03-11 00:00:00
 description: 'description'
-featured_image: '/images/adhawk/adwords_iphone_app_preview.png'
+featured_image: '/images/projects/google-ads-growth-graphic.png'
 ---
 
-![](/images/adhawk/adwords_iphone_app_preview.png)
+![](/images/projects/google-ads-growth-graphic.png)
 
 ## Demo content
 

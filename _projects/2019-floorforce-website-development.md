@@ -1,12 +1,12 @@
 ---
-title: 'AdHawk iOS App'
-subtitle: 'subtitle'
+title: 'Website Development'
+subtitle: 'FloorForce & AdHawk'
 date: 2020-03-11 00:00:00
 description: 'description'
-featured_image: '/images/adhawk/adwords_iphone_app_preview.png'
+featured_image: '/images/projects/floorforce-agency-case-study-cover-bs-dot-com.png'
 ---
 
-![](/images/adhawk/adwords_iphone_app_preview.png)
+![](/images/projects/floorforce-agency-case-study-cover-bs-dot-com.png)
 
 ## Demo content
 

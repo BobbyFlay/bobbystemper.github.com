@@ -1,12 +1,12 @@
 ---
-title: 'AdHawk iOS App'
-subtitle: 'subtitle'
+title: 'Hoofer Ski & Snowboard Club'
+subtitle: 'Club President'
 date: 2020-03-11 00:00:00
 description: 'description'
-featured_image: '/images/adhawk/adwords_iphone_app_preview.png'
+featured_image: '/images/projects/hoofer-ski-and-snowboard-club.JPG'
 ---
 
-![](/images/adhawk/adwords_iphone_app_preview.png)
+![](/images/projects/hoofer-ski-and-snowboard-club.JPG)
 
 ## Demo content
 

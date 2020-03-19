@@ -1,12 +1,12 @@
 ---
-title: 'AdHawk iOS App'
-subtitle: 'subtitle'
+title: 'Class Action Settlement Marketing'
+subtitle: 'Claimant Acquisition & Paid Marketing'
 date: 2020-03-11 00:00:00
 description: 'description'
-featured_image: '/images/adhawk/adwords_iphone_app_preview.png'
+featured_image: '/images/projects/class-action-law-consulting.jpg'
 ---
 
-![](/images/adhawk/adwords_iphone_app_preview.png)
+![](/images/projects/class-action-law-consulting.jpg)
 
 ## Demo content
 
