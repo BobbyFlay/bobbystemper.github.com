@@ -1,8 +1,8 @@
 site: BS.com
 email: me@bobbystemper.com
 description:
-  baseurl: "bobbystemper.com"
-  url: ""
+  baseurl: "www.bobbystemper.com"
+  url: "https://www.bobbystemper.com"
 
 collections:
   pages:
