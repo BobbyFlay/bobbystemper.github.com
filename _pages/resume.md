@@ -14,7 +14,7 @@ image: /images/other/bs-marketing-resume.png
 </div>
 
 <div style="text-align: center;">
-<a href="https://drive.google.com/file/d/1mB2PeZh6NT4pwXAs99_MxBIY00jIygX3/view?usp=sharing">Download PDF</a>
+<a href="https://drive.google.com/file/d/1mB2PeZh6NT4pwXAs99_MxBIY00jIygX3/view?usp=sharing" class="button button--large">Download PDF</a>
 <br>
 </div>
 
