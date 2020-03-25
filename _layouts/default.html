@@ -6,17 +6,22 @@
 
 
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
+	Hi there! Welcome to the guts of my website.
 	{{ site.data.settings.basic_settings.site_title }}
-
-	Duet Theme by https://jekyllthemes.io
-	Premium + free Jekyll themes for your blog or website.
 
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<!--Google Tag Manager Set-Up-->
+	<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-K8BS6TV');</script>
+	<!-- End Google Tag Manager -->
 
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image }}">
@@ -70,7 +75,11 @@
 
 <body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} ajax-loading{% endif %}" data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
 
-
+	<!--Google Tag Manager Part II-->
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8BS6TV"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	{% include header.html %}
 
 
