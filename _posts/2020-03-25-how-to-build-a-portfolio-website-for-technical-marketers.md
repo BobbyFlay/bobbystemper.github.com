@@ -32,7 +32,19 @@ Create an A record, point your apex domain to the IP addresses for GitHub Pages.
 * Create your Google Analytics account
 * Create your Google Tag Manager account
 * Install GTM container on your website
-* Download 
+* Download Google Tag Assistant and enable on your browser
+* Filter out localhost traffic on Google Analytics: 
+```html
+#How to exclude LocalHost traffic on Google Analytics: 
+https://briefmetrics.com/articles/remove-localhost-from-referrers
+```
+* Filter out your home and work IP Addresses / Wifi Networks
+```html
+#How to exclude multiple IP Addresses using Regular Expressions, AKA RegEx
+
+RegEx Tester Resource: https://regex101.com/
+```
+
 
 
 ## SEO Setup
@@ -41,7 +53,9 @@ Create an A record, point your apex domain to the IP addresses for GitHub Pages.
 * Update site-defaul social media images
 * Update Title, Description, Feature Image for all pages, posts, projects, etc. Even your thank-you & 404 pages! 
 * Create a Google Search Console account
-* Link Google Search Console to Google Analytics
+* Link Google Search Console to Google Analytics using preferred verification method. GTM should be very easy if you have that setup already. 
+* Generate a sitemap.xml file which lives at `domain.com/sitemap.xml`
+
 
 
 ## Helpful Git Commands

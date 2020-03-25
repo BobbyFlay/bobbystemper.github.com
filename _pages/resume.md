@@ -1,6 +1,8 @@
 ---
 title: Résumé
 subtitle: Click below to download a PDF
+
+description: Bobby Stemper's current professional resume for recruiters looking for full-time & contract-based marketing hires.
 image: /images/other/bs-marketing-resume.png
 ---
 <h3 style="text-align:center;">

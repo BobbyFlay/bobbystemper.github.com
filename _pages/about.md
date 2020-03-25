@@ -1,7 +1,7 @@
 ---
 title: About Bobby Stemper
 subtitle: A little bit more about me in 10 pictures or less.
-description: Bobby Stemper in 10 pictures.
+description: A little bit more about me, Bobby Stemper in 10 pictures or less.
 featured_image: /images/other/bs-marketing-about.png
 
 image: /images/other/bs-marketing-about.png

@@ -1,8 +1,8 @@
 ---
 title: 'Website Development'
-subtitle: 'FloorForce & AdHawk'
+subtitle: 'HTML, Wordpress, Shopify, and Hubspot Website Development'
 date: 2020-03-11 00:00:00
-description: 'description'
+description: 'An overview of my website development experience as a developer, project manager, and team lead across FloorForce, AdHawk, and as an independent consultant'
 featured_image: '/images/projects/adhawk-website.png'
 image: '/images/projects/adhawk-website.png'
 ---
