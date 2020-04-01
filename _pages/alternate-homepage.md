@@ -1,0 +1,67 @@
+---
+layout: default
+title: BS Marketing
+description: Brooklyn-based bicyclist & technical marketing consultant. Results-driven marketing consultations and contracted projects to help your business grow.
+featured_image: /images/other/bs-marketing-home.png
+
+image: /images/other/bs-marketing-home.png
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>Brooklyn-based bicyclist & technical marketing consultant.</h1>
+		<p>Hit me up for results-driven projects that will help your business grow. Or if you want to go for a ride. Both guaranteed for fun and performance gains.</p>
+
+	</div>
+
+</section>
+<section class ="intro">
+	<div class ="wrap">
+		<h1> Projects:</h1>
+	</div>
+</section>
+<section class="portfolio">
+	<div class="content-wrap portfolio-wrap">
+		{% for project in site.projects reversed %}
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="{{ project.url }}">
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+</section>
+
+<section class ="intro">
+	<div class ="wrap">
+		<h1> Featured Publications:</h1>
+	</div>
+</section>
+
+<section class="portfolio">
+	<div class="content-wrap portfolio-wrap">
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="https://google.com">
+				<div class="portfolio-item__image">
+					<img src="/images/logos/floorforce.svg" alt="PUBLICATION TITLE">
+				</div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">PUBLICATION TITLE</h2>
+						<p class="portfolio-item__subtitle">PUBLICATION SUBTITLE</p>
+					</div>
+				</div>
+			</a>
+		</div>
+	</div>
+</section>
