@@ -11,48 +11,62 @@ image: '/images/other/bs-marketing-home.png'
 
 **Publication**: Milwaukee Journal Sentinel  
 **Date**: 08/12/2015  
-[**Title**: Why I Chose the Startup Life Coming Out of a Top University](http://archive.jsonline.com/blogs/business/why-i-chose-the-startup-life-coming-out-of-a-top-university-39138673246-321567981.html)    
+[**Title**: Why I Chose the Startup Life Coming Out of a Top University](http://archive.jsonline.com/blogs/business/why-i-chose-the-startup-life-coming-out-of-a-top-university-39138673246-321567981.html)  
+
+![](/images/bobby/bobby-cap-madison.jpeg)
+
 **Publication**: Unbounce Conversion Rate Optimization Blog  
 **Date**: 08/12/2017  
 [**Title**: AdHawk x Unbounce Conversion Rate Optimization Webinar](https://blog.tryadhawk.com/webinars/unbounce-landing-page-conversion-rate-optimization-webinar/)   
-**Images**: /images/publications/adhawk-unbounce-co-marketing.png  
+
+![](/images/publications/adhawk-unbounce-co-marketing.png)  
+
 
 **Publication**: AdHawk Facebook Ads Blog  
 **Date**: 11/28/2017  
 [**Title**: 9 Essential Facebook Ad Tools](https://blog.tryadhawk.com/facebook-ads/4-of-the-best-facebook-ad-tools/)  
-**Images**: /images/publications/facebook-ad-tools-blog-post.png  
+
+![](/images/publications/facebook-ad-tools-blog-post.png)  
 
 **Publication**: AdHawk Facebook Ads Blog  
 **Date**: 08/29/2017  
 [**Title**: Facebook Pixel Troubleshooting Guide](https://blog.tryadhawk.com/facebook-ads/facebook-pixel-troubleshooting-guide/)  
-**Images**: /images/publications/facebook-pixel-troubleshooting-blog-post.png  
+
+![](/images/publications/facebook-pixel-troubleshooting-blog-post.png)  
 
 **Publication**: Opt-In Podcast  
 **Date**: 2016-2017  
 [**Title**: Opt-In Sales & Marketing Podcast](https://blog.tryadhawk.com/category/opt-in-podcast/)  
-**Images**: /images/publications/opt-in-podcast-cover-image.png  
-/images/publications/opt-in-podcast-itunes-leaderboard.png  
+
+![](/images/publications/opt-in-podcast-cover-image.png)  
+
+![](/images/publications/opt-in-podcast-itunes-leaderboard.png)  
 
 **Publication**: AdHawk Google Ads Blog  
 **Date**: 08/11/2018  
 [**Title**: The Complete Guide to AdWords Ad Extensions](https://blog.tryadhawk.com/google-adwords/adwords-ad-extensions/)  
-**Images**: /images/publications/google-adwords-ad-extension-guide.png  
+
+![](/images/publications/google-adwords-ad-extension-guide.png)  
 
 **Publication**: AdHawk Digital Marketing Blog  
 **Date**: 10/03/2018  
 [**Title**: The Best Slack Hacks for Marketers](https://blog.tryadhawk.com/marketing-tips/best-slack-hacks/)  
-**YouTube Video**: https://www.youtube.com/watch?v=vHF3nATTFhI  
-**Images**: /images/publications/slack-hacks-for-marketers-blog-post.png  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vHF3nATTFhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+![](/images/publications/slack-hacks-for-marketers-blog-post.png)  
 
 **Publication**: AdHawk Google Ads Blog  
 **Date**: 12/12/2017  
 [**Title**: Google AdWords Glossary: 200 Terms + FREE PDF](https://blog.tryadhawk.com/google-adwords/google-adwords-glossary/)  
-**Images**: /images/publications/adwords-glossary-blog-post.png  
+
+![](/images/publications/adwords-glossary-blog-post.png)  
 
 **Publication**: AdHawk Digital Marketing Blog  
 **Date**: 07/07/2016  
 [**Title**: The Best Marketing Blog Designs: 3,000+ Data Points from the Top 100](https://blog.tryadhawk.com/marketing-tips/best-blog-designs/)  
-**Images**: /images/publications/marketing-blog-design-bible-blog-post.png  
+
+![](/images/publications/marketing-blog-design-bible-blog-post.png)  
 
 ---
 
@@ -178,55 +192,55 @@ Image: [](/images/**Publication**s/themeco-blog.png)
 
 **Publication**: Search Engine Land  
 **Date**: Aug 24, 2017 at 10:44 am ET  
-**Title**: 5 non-traditional skills to look for in a PPC account manager	 
+**Title**: 5 non-traditional skills to look for in a PPC account manager  
 [**URL**](https://searchengineland.com/5-non-traditional-skills-281073)  
 
 **Publication**: Search Engine Land  
 **Date**: Jul 24, 2017 at 10:42 am ET  
-**Title**: Got amazing content but no leads? 5 ways to rethink your paid strategy	
+**Title**: Got amazing content but no leads? 5 ways to rethink your paid strategy  
 [**URL**](https://searchengineland.com/got-amazing-content-no-leads-5-ways-rethink-paid-strategy-279128)  
 
 **Publication**: Search Engine Land  
 **Date**: Jun 26, 2017 at 11:20 am ET  
-**Title**: 5 successful B2B AdWords best practices for any company	 
+**Title**: 5 successful B2B AdWords best practices for any company  
 [**URL**](https://searchengineland.com/5-successful-b2b-adwords-best-practices-for-any-company-277308)  
 
 **Publication**: Search Engine Land  
 **Date**: Mar 7, 2017 at 11:24 am ET  
-**Title**: 3 free AdWords testing tools to adopt today	 
+**Title**: 3 free AdWords testing tools to adopt today  
 [**URL**](https://searchengineland.com/3-free-adwords-testing-tools-adopt-today-270116)  
 
 **Publication**: Search Engine Land  
 **Date**: Oct 21, 2016 at 11:28 am ET  
-**Title**: The eerie future of AdWords targeting	 
+**Title**: The eerie future of AdWords targeting  
 [**URL**](https://searchengineland.com/eerie-future-adwords-targeting-260922)  
 
 **Publication**: Search Engine Land  
 **Date**: Sep 20, 2016 at 10:58 am ET  
-**Title**: The junior data scientist’s guide to AdWords search campaign structure: how to mine hidden gems for huge wins	 
+**Title**: The junior data scientist’s guide to AdWords search campaign structure: how to mine hidden gems for huge wins  
 [**URL**](https://searchengineland.com/junior-data-scientists-guide-adwords-search-campaign-structrure-mine-hidden-gems-huge-wins-258789)  
 
 **Publication**: Search Engine Land  
 **Date**: Aug 22, 2016 at 10:57 am ET  
-**Title**: The way-too-early AdWords holiday testing guide	 
+**Title**: The way-too-early AdWords holiday testing guide  
 [**URL**](https://searchengineland.com/way-early-adwords-holiday-testing-guide-256319)  
 
 **Publication**: Search Engine Land  
 **Date**: Jul 25, 2016 at 10:40 am ET  
-**Title**: 5 annoying AdWords bugs only the pros know	 
+**Title**: 5 annoying AdWords bugs only the pros know  
 [**URL**](https://searchengineland.com/5-annoying-adwords-bugs-pros-know-254023)  
 
 **Publication**: Search Engine Land  
 **Date**: Jun 27, 2016 at 1:06 pm ET  
-**Title**: The right way to get dynamic with Google AdWords	  
-[**URL**](https://searchengineland.com/right-way-get-dynamic-google-adwords-252286)  
+**Title**: The right way to get dynamic with Google AdWords  
+[**URL**](https://searchengineland.com/right-way-get-dynamic-google-adwords-252286)   
 
 **Publication**: Search Engine Land  
 **Date**: May 31, 2016 at 10:00 am ET  
-**Title**: 3 Google AdWords hacks to drive high-quality leads	 
-[**URL**](https://searchengineland.com/3-google-adwords-hacks-drive-high-quality-leads-250161)  
+**Title**: 3 Google AdWords hacks to drive high-quality leads  
+[**URL**](https://searchengineland.com/3-google-adwords-hacks-drive-high-quality-leads-250161)   
 
 **Publication**: Search Engine Land  
 **Date**: May 2, 2016 at 11:08 am ET  
-**Title**: What Kobe Bryant can teach you about succeeding with AdWords	  
+**Title**: What Kobe Bryant can teach you about succeeding with AdWords    
 [**URL**](https://searchengineland.com/kobe-bryant-teach-succeeding-adwords-247865)  
